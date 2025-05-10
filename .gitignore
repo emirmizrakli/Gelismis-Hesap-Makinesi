@@ -1,0 +1,5 @@
+# Node.js veya derleyici kullanılmıyor, sadece temel dışlamalar
+.DS_Store
+Thumbs.db
+screenshot.png
+*.log 
